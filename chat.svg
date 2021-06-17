@@ -1,13 +1,13 @@
 <svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
-      fill: #e9e9eb;
+      fill: #0a80fe;
     }
     a {
-      fill: #0079ff;
+      fill: #fff;
     }
     text {
-      fill: #242424;
+      fill: #fff;
       font-size: 18px;
       font-family: 'Inter';
       letter-spacing: -0.02em;
