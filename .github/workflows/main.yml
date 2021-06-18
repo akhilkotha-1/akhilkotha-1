@@ -26,8 +26,8 @@ jobs:
     - name: Commit changes
       uses: EndBug/add-and-commit@v4
       with:
-        author_name: Akhil Kotha
-        author_email: akhilkotha@gmail.com
+        author_name: akhilkotha-1
+        author_email: hello@akhilkotha.net
         message: "Auto updating my readme"
         add: "*.svg"
       env:
