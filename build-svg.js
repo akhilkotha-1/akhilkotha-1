@@ -21,7 +21,7 @@ const emojis = {
 const today = new Date()
 const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long',timeZone: 'Asia/Kolkata' }).format(today)
 
-const psTime = formatDistance(new Date(2020, 06, 01), today, {
+const psTime = formatDistance(new Date(2020, 09, 12), today, {
   addSuffix: false
 })
 
