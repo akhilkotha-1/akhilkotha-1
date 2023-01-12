@@ -276,7 +276,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in Mumbai, India where it’s supposed to be</text>
-    <text x="15" y="50">28 °C and <tspan class="emoji">☀️</tspan> today.</text>
+    <text x="15" y="50">26 °C and <tspan class="emoji">☀️</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -300,7 +300,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a Graduate Student at IIT Kanpur.</text>
+    <text x="15" y="27">I like to code.</text>
     <text x="15" y="50">I have been here for over 2 years now.</text>
   </g>
 
